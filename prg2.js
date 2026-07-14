@@ -20,7 +20,7 @@ const server = http.createServer((req, res) => {
 
     else if(req.url == '/course') {
         res.writeHead(200, {'Content-Type':'text/html' });
-        res.write('<html><body> <br> This is an USN page </body> </html>');
+        res.write('<html><body> <br> This is an Course page </body> </html>');
         res.end();
     }
 
