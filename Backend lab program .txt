@@ -1,0 +1,10 @@
+Backend Lab Programs list :
+
+1.create a nodejs app that displays "Welcome to Backend Development Lab"
+when accessed through the browser..
+
+2. Develop a Nodejs http server that displays: Student Name , USN , Course name
+on different URLs (/student, /usn, /course).
+
+
+
